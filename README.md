@@ -1,4 +1,4 @@
-# Stock_market_analysis
+# Stock Market Analysis
 
 ## Project Overview
 
